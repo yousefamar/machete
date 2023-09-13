@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "machete",
+	"name": "Machete",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Visualize and organize your forest of notes in an intuitive way.",
+	"author": "Yousef Amar",
+	"authorUrl": "https://yousefamar.com",
+	"fundingUrl": "https://yousefamar.com",
 	"isDesktopOnly": false
 }
