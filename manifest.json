@@ -1,7 +1,7 @@
 {
 	"id": "machete",
 	"name": "Machete",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Visualize and organize your forest of notes in an intuitive way.",
 	"author": "Yousef Amar",
