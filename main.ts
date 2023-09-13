@@ -1,5 +1,5 @@
 import { Plugin } from 'obsidian';
-import { CirclesView, VIEW_TYPE_TREE } from 'views/CirclesView';
+import { CirclesView, VIEW_TYPE_TREE } from './views/CirclesView';
 
 export default class MachetePlugin extends Plugin {
 	macheteView: CirclesView;
